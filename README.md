@@ -1,9 +1,11 @@
 
 # 👋 Hello, I'm Deezy
 
-## 🚀 Full-Stack Developer | Solutions Architect | IoT Enthusiast
+## 🚀 Engineer | Technologist | Builder | Developer | Solutions Architect | IoT Enthusiast 
 
-Welcome to my GitHub! I'm a versatile developer passionate about creating comprehensive digital solutions. From crafting elegant code to designing intuitive user experiences and architecting robust systems, I thrive on bringing ideas to life.
+I'm a versatile developer passionate about creating comprehensive digital solutions. <br> 
+ I work across the stack with a strong focus on clean architecture, scalability, and automation.
+ From crafting elegant code to designing intuitive user experiences and architecting robust systems, I thrive on bringing ideas to life.
 
 
 
