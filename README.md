@@ -69,7 +69,7 @@ I'm a versatile developer passionate about creating comprehensive digital soluti
 
 ### 🤝 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://gh.linkedin.com/in/kondasmajid))
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/kondasmajid/](https://gh.linkedin.com/in/kondasmajid))
 
 
 Feel free to explore my repositories and reach out for collaborations or interesting tech discussions!
